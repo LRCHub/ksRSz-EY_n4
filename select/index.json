@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "18, 19",
+  "base_artist": "tricot",
+  "createdAt": "2026-03-30T14:35:40.224050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "18, 19",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_18,_19_tricot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "18,19 (Audiotree Live Version)",
+      "artist": "Tricot",
+      "has_synced": false,
+      "path": "select/02_18,19_(Audiotree_Live_Version)_Tricot.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Surah Ali-Imran, Ayat 18-19",
+      "artist": "Ustaz Khairul Anuar Basri Al-Hafiz",
+      "has_synced": false,
+      "path": "select/03_Surah_Ali-Imran,_Ayat_18-19_Ustaz_Khairul_Anuar_Basri_Al-Hafiz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "18,19",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/04_18,19_tricot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Change the World (Live at Staples Center, Los Angeles, CA, 8_18 - 19_2001)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/05_Change_the_World_(Live_at_Staples_Center,_Los_Angeles,_CA,_8_18_-_19_2001)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cymbaline (Live In Montreux 18 & 19 Sept 1971)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/06_Cymbaline_(Live_In_Montreux_18_&_19_Sept_1971)_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Echoes (Live In Montreux 18 & 19 Sept 1971)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/07_Echoes_(Live_In_Montreux_18_&_19_Sept_1971)_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Time to Flee (10.18.19)",
+      "artist": "Goose",
+      "has_synced": false,
+      "path": "select/08_Time_to_Flee_(10.18.19)_Goose.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Apocalipse 1: 18-19 (Intro)",
+      "artist": "Ryu, The Runner",
+      "has_synced": true,
+      "path": "select/09_Apocalipse_1__18-19_(Intro)_Ryu,_The_Runner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wholly Yours (Ephesians 3:18-19) [Live]",
+      "artist": "Shane & Shane",
+      "has_synced": true,
+      "path": "select/10_Wholly_Yours_(Ephesians_3_18-19)_[Live]_Shane_&_Shane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apocalipse 1: 18-19 (Intro)",
+      "artist": "Ryu, the Runner",
+      "has_synced": false,
+      "path": "select/11_Apocalipse_1__18-19_(Intro)_Ryu,_the_Runner.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Key to the Highway (Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Key_to_the_Highway_(Live_at_Staples_Center,_Los_Angeles,_CA,_8_18_-_19_2001)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over the Rainbow (Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/13_Over_the_Rainbow_(Live_at_Staples_Center,_Los_Angeles,_CA,_8_18_-_19_2001)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hoochie Coochie Man (Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001)",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/14_Hoochie_Coochie_Man_(Live_at_Staples_Center,_Los_Angeles,_CA,_8_18_-_19_2001)_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Change the World - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/15_Change_the_World_-_Live_at_Staples_Center,_Los_Angeles,_CA,_8_18_-_19_2001_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Le Temps Des Colonies (Palais Des Sports 18-19/02/05)",
+      "artist": "Michel Sardou",
+      "has_synced": false,
+      "path": "select/16_Le_Temps_Des_Colonies_(Palais_Des_Sports_18-19_02_05)_Michel_Sardou.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Les Lacs Du Connemara (Palais Des Sports 18-19/02/05)",
+      "artist": "Michel Sardou",
+      "has_synced": false,
+      "path": "select/17_Les_Lacs_Du_Connemara_(Palais_Des_Sports_18-19_02_05)_Michel_Sardou.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Espérer (Palais Des Sports 18-19/02/05)",
+      "artist": "Michel Sardou",
+      "has_synced": false,
+      "path": "select/18_Espérer_(Palais_Des_Sports_18-19_02_05)_Michel_Sardou.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "18, 19",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/pl_01_18,_19_tricot.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "18, 19",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/localdb_01_18,_19_tricot.lrc",
+      "repo_name": "004wnEEB_ok"
+    }
+  ]
+}
